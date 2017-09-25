@@ -1,5 +1,5 @@
 {
-  "name": "node-calendar",
+  "name": "@vidya301096/node-calendar",
   "version": "0.1.0",
   "description": "CLI to give current months calender,current date,time and time zone",
   "main": "index.js",
