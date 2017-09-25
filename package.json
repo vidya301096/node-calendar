@@ -1,6 +1,6 @@
 {
-  "name": "assignment_6.1",
-  "version": "1.0.0",
+  "name": "node-calendar",
+  "version": "0.1.0",
   "description": "CLI to give current months calender,current date,time and time zone",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "date"
   ],
   "author": "vidyasree <vidya301096@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "getDate": "index.js"
   },
