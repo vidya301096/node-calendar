@@ -1,0 +1,20 @@
+{
+  "name": "assignment_6.1",
+  "version": "1.0.0",
+  "description": "CLI to give current months calender,current date,time and time zone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "vidyasree <vidya301096@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "getDate": "index.js"
+  },
+  "dependencies": {
+    "calendar-base": "^0.3.0"
+  }
+}
